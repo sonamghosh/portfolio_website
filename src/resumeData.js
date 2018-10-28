@@ -4,26 +4,31 @@ let resumeData = {
   "role": "Frontend Developer",
   "linkedinId":"sonamghosh96",
   "skypeid": "skypegear96",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": "Hello World, I am Software Developer that specializes in Artificial Intelligence and Quantum Computing. I dabble in work dealing numerical analysis, machine learning, deep learning, data science, agumented reality, computer vision, physics/chemistry modeling. I am also a avid world traveller and have been to almost 20 countries and try to travel internationally multiple times a year to experience new cultures, food, and experiences. TBC LOL Memes Camel",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/sonamghosh96",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"http://github.com/sonamghosh",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"facebook",
+        "url":"https://www.facebook.com/sonam.ghosh.5",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ghosh.sonam/",
+        "className": "fa fa-instagram"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
-  "address":"India",
+  "aboutme":"I have a B.S. in Electrical Engineering and a minor in Physics from Boston University",
+  "address":"Cambridga, MA, USA",
   "website":"https://www.codeclassifiers.com",
   "education":[
     {
