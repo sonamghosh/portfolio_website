@@ -342,14 +342,14 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 20%;
+  	width: 10%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
-  	width: 20%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.html {
+  	width: 10%;
+  	-moz-animation: html 2s ease;
+  	-webkit-animation: html 2s ease;
 }
 .jquery {
   	width: 50%;
@@ -357,28 +357,68 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 .python {
-    width: 90%;
+    width: 95%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
-.c {
-    width: 80%;
-    -moz-animation: c 2s ease;
-    -webkit-animation: c 2s ease;
+.cplusplus {
+    width: 85%;
+    -moz-animation: cplusplus 2s ease;
+    -webkit-animation: cplusplus 2s ease;
 }
 .latex {
     width: 90%;
     -moz-animation: latex 2s ease;
     -webkit-animation: latex 2s ease;
 }
+.matlab {
+    width: 90%;
+    -moz-animation: matlab 2s ease;
+    -webkit-animation: matlab 2s ease;
+}
+.java {
+    width: 50%;
+    -moz-animation: java 2s ease;
+    -webkit-animation: java 2s ease;
+}
+.swift {
+    width: 30%;
+    -moz-animation: swift 2s ease;
+    -webkit-animation: swift 2s ease;
+}
+.reactjavascript {
+    width: 40%;
+    -moz-animation: reactjavascript 2s ease;
+    -webkit-animation: reactjavascript 2s ease;
+}
 
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes latex {
   0%   { width: 0px;  }
   100% { width: 90%;  }
+}
+@-moz-keyframes cplusplus {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes matlab {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes swift {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes reactjavascript {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
@@ -394,24 +434,46 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 10%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 10%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
 
+/* webkit key frames */
+
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes latex {
   0%   { width: 0px;  }
   100% { width: 90%;  }
+}
+@-webkit-keyframes cplusplus {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes matlab {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes swift {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-webkit-keyframes reactjavascript {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
@@ -427,11 +489,11 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 10%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes html {
   0%   { width: 0px;  }
-  100% { width: 20%;  }
+  100% { width: 10%;  }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }

@@ -29,7 +29,7 @@ let resumeData = {
     ],
   "aboutme":"I have a B.S. in Electrical Engineering and a minor in Physics from Boston University",
   "address":"Cambridga, MA, USA",
-  "website":"https://www.codeclassifiers.com",
+  "website":"https://www.sonamghosh.com",
   "education":[
     {
       "UniversityName":"Boston University",
@@ -73,7 +73,7 @@ let resumeData = {
       "specialization":"Undergraduate Research Assistant",
       "MonthOfLeaving":"September 2015 - April",
       "YearOfLeaving":"2016",
-      "Achievements":"COnducted spectral analysis for custom built Photothermal Spectroscopy system. Learned the fundamentals of Photothermal Spectroscopy, Fourier-Transform Infrared Spectroscopy, and different types of Microscopy. Designed Microscopy stage and holder setup, wrote protocols for various microscope setups, and made a MATLAB script for counting number of cells/circular objects in a sample."
+      "Achievements":"Conducted spectral analysis for custom built Photothermal Spectroscopy system. Learned the fundamentals of Photothermal Spectroscopy, Fourier-Transform Infrared Spectroscopy, and different types of Microscopy. Designed Microscopy stage and holder setup, wrote protocols for various microscope setups, and made a MATLAB script for counting number of cells/circular objects in a sample."
     }
   ],
   "skillsDescription":"Your skills here",
@@ -82,19 +82,28 @@ let resumeData = {
       "skillname":"Python"
     },
     {
-      "skillname":"C"
+      "skillname":"C++"
     },
     {
-      "skillname": "Latex"
+      "skillname":"MATLAB"
     },
     {
-      "skillname":"HTML5"
+      "skillname":"Latex"
+    },
+    {
+      "skillname": "Java"
+    },
+    {
+      "skillname": "Swift"
+    },
+    {
+      "skillname":"HTML"
     },
     {
       "skillname":"CSS"
     },
     {
-      "skillname":"Reactjs"
+      "skillname":"ReactJavascript"
     }
   ],
   "portfolio":[
