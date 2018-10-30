@@ -1,10 +1,10 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
   "name": "Sonam Ghosh",
-  "role": "Frontend Developer",
+  "role": "Software Developer in Machine Learning, Physics, and Signal Processing",
   "linkedinId":"sonamghosh96",
   "skypeid": "skypegear96",
-  "roleDescription": "Hello World, I am Software Developer that specializes in Artificial Intelligence and Quantum Computing. I dabble in work dealing numerical analysis, machine learning, deep learning, digital signal processing, data science, agumented reality, computer vision, physics/chemistry modeling. I am also a avid world traveller and have been to almost 20 countries and try to travel internationally multiple times a year to experience new cultures, food, and experiences. TBC LOL Memes Camel",
+  "roleDescription": "I specialize in Artificial Intelligence and Quantum Computing. I dabble in work dealing numerical analysis, machine learning, deep learning, digital signal processing, data science, agumented reality, computer vision, physics/chemistry modeling. I am also a avid world traveller and have been to almost 20 countries and try to travel internationally multiple times a year to experience new cultures, food, and experiences. TBC LOL Memes Camel",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -80,6 +80,12 @@ let resumeData = {
   "skills":[
     {
       "skillname":"Python"
+    },
+    {
+      "skillname":"C"
+    },
+    {
+      "skillname": "Latex"
     },
     {
       "skillname":"HTML5"
