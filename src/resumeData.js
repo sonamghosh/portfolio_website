@@ -29,7 +29,7 @@ let resumeData = {
     ],
   "aboutme":"I have a B.S. in Electrical Engineering and a minor in Physics from Boston University",
   "address":"Cambridga, MA, USA",
-  "website":"https://www.sonamghosh.com",
+  "website":"sonamg@bu.edu",
   "education":[
     {
       "UniversityName":"Boston University",
@@ -110,12 +110,12 @@ let resumeData = {
     {
       "name":"project1",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/coffee.jpg"
     },
     {
       "name":"project2",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "imgurl":"images/portfolio/console.jpg"
     },
     {
       "name":"project3",
